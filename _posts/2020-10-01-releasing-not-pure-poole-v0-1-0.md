@@ -5,7 +5,7 @@ author: Faris
 tags:
   - jekyll theme
   - jekyll
-date: '2020-10-01 13:56 +0800'
+date: '2021-02-11T21:49'
 ---
 The Jekyll theme **Not Pure Poole** v0.1.0 was released!nsdajkfdhasjfhjshjkhafhasjfhjshjkhaf
 
