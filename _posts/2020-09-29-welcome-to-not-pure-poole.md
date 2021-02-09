@@ -4,7 +4,7 @@ title: 'First post :  buat blog pakai jekyllrb'
 date: '2021-02-10T21:49'
 last_modified_at: '2020-10-01 01:08:25 +0800'
 tags:
-  - jekyll theme
+  - ''
   - jekyll
   - tutorial
 toc: true
