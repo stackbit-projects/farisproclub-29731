@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Review kulon a.k.a kuliah online
-author: Songzi Vong
+author: Faris
 tags:
   - jekyll theme
   - jekyll
