@@ -8,6 +8,7 @@ tags:
   - jekyll
   - tutorial
   - lorem-ipsum
+  - lorem-ipsum
 toc: true
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.
