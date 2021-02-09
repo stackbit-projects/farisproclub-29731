@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 'Harmony, Excellent, Integrity '
 author: Songzi Vong
 tags:
   - jekyll theme
