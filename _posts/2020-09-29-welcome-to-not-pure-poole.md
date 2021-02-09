@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'First post :  buat blog pakai jekyllrb'
-date: '2020-09-29 23:18 +0800'
+date: '2021-02-10T21:49'
 last_modified_at: '2020-10-01 01:08:25 +0800'
 tags:
   - jekyll theme
