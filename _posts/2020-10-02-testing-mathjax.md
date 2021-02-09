@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teknofest Proclub
-tags: mathjax
+tags: ''
 math: true
 date: '2020-10-02 15:32 +0800'
 ---
