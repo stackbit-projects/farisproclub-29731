@@ -3,7 +3,7 @@ layout: post
 title: Teknofest Proclub
 tags: ''
 math: true
-date: '2021-02-09T21:47'
+date: '2021-02-13T21:47'
 ---
 Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
 
